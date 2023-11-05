@@ -5,7 +5,7 @@ int main(){
 
 printf ("iniciamos aqui!\n");
 
-printf ("alteração");
+
 
 
 
